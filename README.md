@@ -2,6 +2,9 @@
 
 The **IMF Gadget API** is a secure API designed for managing the Impossible Missions Force's gadget inventory. It includes endpoints for authentication, gadget creation, retrieval, updates, and decommissioning. Additionally, it supports initiating self-destruct sequences for gadgets.
 
+## Documention
+Refer `/api-docs` route for api documentation
+
 ## Table of Contents
 - [Features](#features)
 - [Prerequisites](#prerequisites)
