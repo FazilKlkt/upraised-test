@@ -32,8 +32,8 @@ The **IMF Gadget API** is a secure API designed for managing the Impossible Miss
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/imf-gadget-api.git
-   cd imf-gadget-api
+   git clone https://github.com/FazilKlkt/upraised-test
+   cd upraised-test
    ```
 
 2. Install dependencies:
