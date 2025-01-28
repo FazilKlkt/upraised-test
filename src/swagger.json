@@ -11,7 +11,7 @@
         "description": "Local development server"
       },
       {
-        "url": "YOUR_DEPLOYED_API_URL",
+        "url": "https://upraised-test-production.up.railway.app",
         "description": "Production environment"
       }
     ],
